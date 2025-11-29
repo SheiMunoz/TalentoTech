@@ -94,3 +94,5 @@ while opcion != "5":
 
     print(menu)
     opcion = input("Elija la opción deseada: ")
+    
+print("¡Gracias por usar nuestra aplicación!")
